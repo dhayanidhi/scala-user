@@ -1,0 +1,12 @@
+target/
+test-output/
+*.iml
+atlassian-ide-plugin.xml
+.idea/
+lib/
+.repository/
+tmp
+test-result
+precompiled
+.idea
+eclipse
